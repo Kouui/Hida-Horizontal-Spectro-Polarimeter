@@ -1,1 +1,1 @@
-# Hida-Horizontal-Spectro-Polarimeter
+# Hida-Observatory
